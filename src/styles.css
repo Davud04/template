@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+cursor: pointer;
+
+  background-color: white;
+}
+
+.carousel-control-next,
+.carousel-control-prev{
+  width: 5% !important;
+  height: 15% !important;
+  top: 45% !important;
+ background-color: gray;
+
+}

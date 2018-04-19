@@ -1,0 +1,10 @@
+.img-size {
+  max-height: 500px;
+}
+body { padding-top: 55px; }
+.carousel-control-prev-icon {
+  background: black;
+}
+.carousel-control-next{
+  width: 5%;
+}

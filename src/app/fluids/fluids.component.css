@@ -1,0 +1,13 @@
+
+.thumbnail {
+  position: relative;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+.container-bg {
+  background: whitesmoke;
+}

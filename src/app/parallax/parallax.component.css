@@ -1,0 +1,22 @@
+.bg-2 {
+  background-color:#000;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+
+.bg-2 {background-image: url(http://placeimg.com/900/700/people);}
+
+
+section {
+  height: 425px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  overflow: auto;
+  color:#FFF;
+}
